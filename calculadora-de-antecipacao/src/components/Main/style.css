@@ -1,0 +1,43 @@
+main{
+    background-color: white;
+    padding: 55px;
+}
+
+h1{
+    font-size: 25px;
+    color: rgb(83, 83, 83);
+}
+
+label{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+span{
+    margin-bottom: 7px;
+    color: rgb(114, 114, 114);
+}
+
+p{
+    color: rgb(182, 178, 178);
+    margin-top: 3px;
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid  rgb(214, 213, 213);
+}
+
+button{
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(65, 128, 199);
+    color: white;
+    font-size: 19px;
+}

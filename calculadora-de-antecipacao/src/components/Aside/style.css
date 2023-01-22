@@ -1,0 +1,30 @@
+#wrapper{
+    background-color: rgb(245, 244, 244);
+    padding: 62px;
+    height: 341px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+section{
+    display: flex;
+    
+}
+
+#values p{
+    margin-left: 8px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color:  rgb(109, 149, 194);
+}
+
+#desc p{
+    font-weight: 300;
+    margin-bottom: 15px;
+    color:  rgb(109, 149, 194);
+}
+
+#wrapper h1{
+    color:  rgb(65, 128, 199);
+}
